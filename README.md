@@ -29,7 +29,7 @@ I also play the guitar for the prog metal band Monolitheon.</p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/davideke1">
+<a href="https://github.com/aadityakm113">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadityakm1131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadityakm113&layout=compact&langs_count=8&theme=algolia"/>
   <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakm113&theme=midnight-purple" alt="ekechukwudavid" /></p>
