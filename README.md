@@ -29,12 +29,15 @@ I also play the guitar for the prog metal band Monolitheon.</p>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/aadityakm113">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadityakm1131&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadityakm113&layout=compact&langs_count=8&theme=algolia"/>
-  <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakm113&theme=midnight-purple" alt="ekechukwudavid" /></p>
-</a>
+  <a href="https://github.com/aadityakm113">
+    <img height=180em src="https://github-readme-stats.vercel.app/api?username=aadityakm113&count_private=true&theme=tokyonight" alt="Aaditya's GitHub stats"/>
+    <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakm113&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  </a>
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityakm113&theme=midnight-purple" alt="aadityakm113"/>
+</p>
+
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aadityakm113)
