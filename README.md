@@ -43,7 +43,7 @@ I also play the guitar for the prog metal band Monolitheon.</p>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/aadityakm113)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadityakumarmuktavarapu/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/aadityakm113/)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://leetcode.com/u/aadityakm113/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aadityakm113/)
 <a href="mailto:aadityakm113@gmail.com"><img src="https://img.shields.io/badge/-aadityakm113@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
